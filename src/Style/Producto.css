@@ -1,0 +1,28 @@
+.Card{
+    margin-top: 5px;
+    margin-right: 10px;
+    padding: 5px;
+    border: rgb(207, 201, 201) 0.5px solid;
+    text-align: center;
+}
+
+.Image{
+    display:block;
+    margin:auto;
+    padding-bottom: 10px;
+}
+
+.Body{
+    margin-left: 5px;
+}
+
+.Title{
+    font-style: italic;
+    font-size: 20px;
+    text-align: left;
+}
+
+.SubTitle{
+    font-size: 18px;
+    text-align: left;
+}

@@ -1,0 +1,20 @@
+.modalFooter{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.boton{
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.cardSubtitle{
+    font-size: 20px;
+    padding-top: 15px;
+}
+
+.precio{
+    padding-top: 10px;
+    font-style: italic;
+}

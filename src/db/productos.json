@@ -1,0 +1,84 @@
+{
+	"entradas":[
+		{
+			"nombre": "Papas con cheddar",
+			"descripcion": "Papas gajos con salsa de queso cheddar",
+			"imagen":"https://firebasestorage.googleapis.com/v0/b/app-menu-gastronomico.appspot.com/o/papas_cheddar.jpg?alt=media&token=796775b5-8260-4787-9fa1-50cbf6b04cd2",
+			"precio": "350" 
+		},{
+			"nombre": "Papas de la casa",
+			"descripcion": "Papas gajos con salsa de queso cheddar, cebolla de verdeo y panceta.",
+			"imagen":"https://firebasestorage.googleapis.com/v0/b/app-menu-gastronomico.appspot.com/o/papas_cheddar_verdeo_panceta.jpg?alt=media&token=135db41b-b51a-4e4e-968a-e1a171c86ea2",
+			"precio": "400"
+		},{
+			"nombre": "Rabas",
+			"descripcion": "Rabas con limón y salsa de limón.",
+			"imagen":"https://firebasestorage.googleapis.com/v0/b/app-menu-gastronomico.appspot.com/o/rabas.jpg?alt=media&token=e7b27f13-644e-4fee-819a-9aad9f996059",
+			"precio": "800"
+		},{
+			"nombre": "Nuggets de pollo",
+			"descripcion": "Nuggets de pollo fritos con opcional de ketchup o salsa cheddar.",
+			"imagen":"https://firebasestorage.googleapis.com/v0/b/app-menu-gastronomico.appspot.com/o/nuggets.jpg?alt=media&token=01bc3a43-8594-4c39-bd55-a205830a8be0",
+			"precio": "500"
+		}
+	],
+	"pizzas":[
+		{
+			"nombre": "Pizza mozzarella",
+			"descripcion": "Pizza con salsa, queso mozzarella, orégano y aceitunas verdes",
+			"imagen":"https://firebasestorage.googleapis.com/v0/b/app-menu-gastronomico.appspot.com/o/pizza_mozzarella.jpg?alt=media&token=48fefff1-7933-40c7-b277-8e7d28737710",
+			"precio": "500" 
+		},{
+			"nombre": "Pizza especial",
+			"descripcion": "Pizza con salsa, queso mozzarella, jamón cocido, morrón y aceitunas negras.",
+			"imagen":"https://firebasestorage.googleapis.com/v0/b/app-menu-gastronomico.appspot.com/o/pizza_especial.jpg?alt=media&token=37165e33-1152-4231-9b0f-629694391e32",
+			"precio": "700"
+		},{
+			"nombre": "Pizza napolitana",
+			"descripcion": "Pizza con salsa, queso mozzarella, rodajas de tomate y aceitunas verdes.",
+			"imagen":"https://firebasestorage.googleapis.com/v0/b/app-menu-gastronomico.appspot.com/o/pizza_napolitana.jpg?alt=media&token=82da9070-370a-44ba-b860-7e9b2ee515ab",
+			"precio": "600"
+		},{
+			"nombre": "Pizza calabresa",
+			"descripcion": "Pizza con salsa, queso mozzarella, rodajas de longaniza y aceitunas verdes.",
+			"imagen":"https://firebasestorage.googleapis.com/v0/b/app-menu-gastronomico.appspot.com/o/pizza_calabresa.jpg?alt=media&token=d305bb1a-0388-4fad-bb6a-a7fe7a6fb0d7",
+			"precio": "700"
+		}
+	],
+	"empanadas":[
+		{
+			"nombre": "Empanadas de carne",
+			"descripcion": "Una docena de empanadas de carne picada, cebolla, huevo, aceitunas. Fritas o al horno",
+			"imagen":"https://firebasestorage.googleapis.com/v0/b/app-menu-gastronomico.appspot.com/o/empanadas_carne.jpg?alt=media&token=df2d4916-9d42-427c-9b24-fe0b6dfae1a7",
+			"precio": "900" 
+		},{
+			"nombre": "Empanadas de jamón y queso",
+			"descripcion": "Una docena de empanadas de jamón y queso al horno.",
+			"imagen":"https://firebasestorage.googleapis.com/v0/b/app-menu-gastronomico.appspot.com/o/empanadas_jamon_queso.jpg?alt=media&token=f18fa735-093b-496e-8d48-3d689bcacbcf",
+			"precio": "800"
+		},{
+			"nombre": "Empanadas de acelga",
+			"descripcion": "Una docena de empanadas de acelga, cebolla y morrón verde.",
+			"imagen":"https://firebasestorage.googleapis.com/v0/b/app-menu-gastronomico.appspot.com/o/empanadas_acelga.png?alt=media&token=4a2f835f-72f4-42f1-9320-2539c430ef95",
+			"precio": "800"
+		},{
+			"nombre": "Empanadas de pollo",
+			"descripcion": "Una docena de empandas de pollo, cebolla, morrón, huevos, oregano.",
+			"imagen":"https://firebasestorage.googleapis.com/v0/b/app-menu-gastronomico.appspot.com/o/empanadas_pollo.jpg?alt=media&token=988a83d4-a74c-44ab-a37b-4b6df129b855",
+			"precio": "900"
+		}
+	],
+	"sandwichs":[
+		{
+			"nombre": "Sandwichs de miga",
+			"descripcion": "4 sandwichs con pan de miga, jamón cocido y queso. Opcional con pan de miga de salvado",
+			"imagen":"https://firebasestorage.googleapis.com/v0/b/app-menu-gastronomico.appspot.com/o/sandwich_miga_jyq.jpg?alt=media&token=64e848fc-bff5-42c8-8bbb-46ec500f237e",
+			"precio": "350" 
+		},{
+			"nombre": "Sandwich de milanesa",
+			"descripcion": "Sandiwch de milanesa (carne, pollo o cerdo) con lechuga, tomate, queso y huevo frito.",
+			"imagen":"https://firebasestorage.googleapis.com/v0/b/app-menu-gastronomico.appspot.com/o/sandwich_milanesa.jpg?alt=media&token=22994cfd-cbc5-4a46-9be9-e257894cc3b4",
+			"precio": "600"
+		}
+	]
+}

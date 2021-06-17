@@ -1,0 +1,17 @@
+.MiPedido{
+    font-size: 20px;
+    margin: 0px;
+}
+
+.Table{
+    font-size: 20px;
+}
+
+.Btn{
+    display:block;
+    margin:auto;
+    text-align: center;
+    background-color: transparent;
+    color: blue;
+    text-decoration: none;
+}
